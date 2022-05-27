@@ -1,6 +1,5 @@
-<script>
-  const pageProps = ['productName']
-  export default { props: pageProps }
+<script setup>
+  const props = defineProps(['productName'])
 </script>
 
 <template>
