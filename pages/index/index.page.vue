@@ -84,6 +84,7 @@
     padding: 0.5rem 1rem;
     font-size: 1.25rem;
     margin: 0 auto;
+    cursor: pointer;
   }
   svg {
     fill: #fff;
